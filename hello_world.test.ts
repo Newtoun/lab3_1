@@ -1,4 +1,4 @@
-import { hello } from "C:/Users/nilto/OneDrive/Área de Trabalho/project zumboid/lab03_01/hello_world";
+import { hello } from "./hello_world.js";
 
 describe("test hello", () => {
   it("should return hello world", () => {
