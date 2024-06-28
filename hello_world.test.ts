@@ -1,4 +1,4 @@
-import { hello } from "./hello_world.ts";
+import { hello } from "./hello_world";
 
 describe("test hello", () => {
   it("should return hello world", () => {
